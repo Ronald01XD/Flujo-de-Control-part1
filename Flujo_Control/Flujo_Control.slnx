@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Flujo_Control/Flujo_Control.vcxproj" Id="753f41d5-e5e6-4d21-b12b-a7b54be318fb" />
-</Solution>
